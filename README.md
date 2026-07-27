@@ -27,13 +27,13 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lamhung2k5&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamhung2k5&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ### 🐍 Contribution Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/lamhung2k5/lamhung2k5/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 ### 📫 Let's Connect
