@@ -1,20 +1,41 @@
-<table align="center" border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
-<!-- Cột TRÁI: Hình ảnh -->
-<td width="35%" align="center" valign="top" style="border: none;">
-<img src="sr2712ab0b35ecd.webp" width="100%" alt="Pixel Cat Coding" />
-</td>
-<!-- Cột PHẢI: Thông tin cá nhân -->
-<td width="65%" valign="top" style="border: none;">
-<h1>Lâm Tấn Hưng 👋</h1>
-<h3>Software Engineering Student @ Tra Vinh University</h3>
-<br/>
-I'm a future Software Engineer, currently studying Information Technology at the School of Engineering and Technology, Tra Vinh University. My daily routine involves diving deep into the ocean of programming languages, frameworks, and databases—and occasionally drowning in bugs. I'm actively sharpening my backend and full-stack skills to build a solid technical foundation and hunt for a great career opportunity.
-</td>
-</tr>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse: collapse; border: none !important;">
+  <tr style="border: none !important;">
+    <!-- Cột TRÁI: Hình ảnh -->
+    <td width="35%" align="center" valign="top" style="border: none !important; padding-right: 20px;">
+      <img src="sr2712ab0b35ecd.webp" width="100%" alt="Pixel Cat Coding" />
+    </td>
+    
+    <!-- Cột PHẢI: Thông tin cá nhân gọn gàng -->
+  <td width="65%" valign="top" style="border: none !important;">
+      <h1>Lâm Tấn Hưng 👋</h1>
+      <h3>Software Engineering Student @ Tra Vinh University</h3>
+      <br/>
+      <p>
+        I'm an Information Technology student focusing on <b>Backend Architecture</b> and <b>Full-stack development</b>. I continuously build APIs, design databases, and refine my logic to craft robust software solutions. 
+      </p>
+      <p>
+        <b>🎯 Current Goal:</b> Building a solid technical foundation to hunt for a great career opportunity!
+      </p>
+    </td>
+  </tr>
 </table>
 
 <br/>
+
+### ⚡ Currently Doing
+- 💻 Building a Web Forum application using **VueJS** and **.NET 10**.
+- 🗄️ Working with **SQLite & Dapper** for efficient database transactions.
+- 🏸 Designing system workflows for an automated badminton court reservation platform.
+- 🏋️‍♂️ Balancing screen time with gym workouts and practicing the tremolo harmonica.
+
+### 🛠️ Tech Stack & Tools
+<!-- Khối Tech Stack của bạn giữ nguyên ở đây -->
+
+### 📊 GitHub Analytics
+<!-- Khối Analytics của bạn giữ nguyên ở đây -->
+
+### 🐍 Contribution Activity
+<!-- Khối ảnh động Snake của bạn giữ nguyên ở đây -->
 
 ### 🐍 Contribution Activity
 <p align="center">
