@@ -21,21 +21,6 @@
 
 <br/>
 
-### ⚡ Currently Doing
-- 💻 Building a Web Forum application using **VueJS** and **.NET 10**.
-- 🗄️ Working with **SQLite & Dapper** for efficient database transactions.
-- 🏸 Designing system workflows for an automated badminton court reservation platform.
-- 🏋️‍♂️ Balancing screen time with gym workouts and practicing the tremolo harmonica.
-
-### 🛠️ Tech Stack & Tools
-<!-- Khối Tech Stack của bạn giữ nguyên ở đây -->
-
-### 📊 GitHub Analytics
-<!-- Khối Analytics của bạn giữ nguyên ở đây -->
-
-### 🐍 Contribution Activity
-<!-- Khối ảnh động Snake của bạn giữ nguyên ở đây -->
-
 ### 🐍 Contribution Activity
 <p align="center">
 <img src="https://raw.githubusercontent.com/lamhung2k5/lamhung2k5/output/github-contribution-grid-snake-dark.svg" width="100%" />
