@@ -5,7 +5,6 @@
       <img src="sr2712ab0b35ecd.webp" width="100%" alt="Pixel Cat Coding" />
     </td>
     
-    <!-- Cột PHẢI: Thông tin cá nhân gọn gàng -->
   <td width="65%" valign="top" style="border: none !important;">
       <h1>Lâm Tấn Hưng 👋</h1>
       <h3>Software Engineering Student @ Tra Vinh University</h3>
