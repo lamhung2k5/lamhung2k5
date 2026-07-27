@@ -16,6 +16,11 @@ I'm a future Software Engineer, currently studying Information Technology at the
 
 <br/>
 
+### 🐍 Contribution Activity
+<p align="center">
+<img src="https://raw.githubusercontent.com/lamhung2k5/lamhung2k5/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
 ### 🛠️ Tech Stack & Tools
 <p align="left">
 <!-- Languages -->
@@ -44,10 +49,7 @@ I'm a future Software Engineer, currently studying Information Technology at the
 <img src="https://raw.githubusercontent.com/lamhung2k5/lamhung2k5/main/metrics.langs.svg" width="48%" alt="Top Languages" />
 </p>
 
-### 🐍 Contribution Activity
-<p align="center">
-<img src="https://raw.githubusercontent.com/lamhung2k5/lamhung2k5/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
+
 
 ### 📫 Let's Connect
 <p align="left">
