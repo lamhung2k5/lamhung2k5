@@ -27,7 +27,8 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lamhung2k5/lamhung2k5/main/github-metrics.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/lamhung2k5/lamhung2k5/main/metrics.stats.svg" width="48%" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/lamhung2k5/lamhung2k5/main/metrics.langs.svg" width="48%" alt="Top Languages" />
 </p>
 
 ### 🐍 Contribution Activity
