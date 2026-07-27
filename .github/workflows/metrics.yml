@@ -9,10 +9,29 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      # Bước 1: Tạo thẻ thống kê cơ bản (Cột trái)
+      - name: Generate Stats Card
+        uses: lowlighter/metrics@latest
         with:
+          filename: metrics.stats.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: lamhung2k5
           template: classic
-          base: header, activity, community, repositories, metadata
+          # Chỉ giữ lại header và activity để thẻ ngắn gọn
+          base: header, activity
+          config_timezone: Asia/Ho_Chi_Minh
+
+      # Bước 2: Tạo thẻ ngôn ngữ lập trình (Cột phải)
+      - name: Generate Languages Card
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.langs.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: lamhung2k5
+          template: classic
+          # Tắt base để không bị trùng lặp thông tin với thẻ trên
+          base: ""
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 6
           config_timezone: Asia/Ho_Chi_Minh
