@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Lâm%20Tấn%20Hưng&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20@%20Tra%20Vinh%20University&descAlignY=55&descAlign=50" width="100%" />
+  <!-- Ảnh động Pixel Art người ngồi gõ code -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-56118042-07ea-4bdf-9459-fafa83090639.gif" width="100%" alt="Pixel Developer" />
 </p>
+
+<!-- Tách phần tên và thông tin ra thành chữ căn giữa bên dưới ảnh -->
+<h1 align="center">Lâm Tấn Hưng 👋</h1>
+<h3 align="center">Software Engineering Student @ Tra Vinh University</h3>
+<br/>
 
 ### 🇬🇧 English
 👨‍💻 I'm a future Software Engineer, currently studying Information Technology at the School of Engineering and Technology, Tra Vinh University. 
