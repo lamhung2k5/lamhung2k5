@@ -9,13 +9,9 @@
 <h1>Lâm Tấn Hưng 👋</h1>
 <h3>Software Engineering Student @ Tra Vinh University</h3>
 <br/>
-<b>🇬🇧 English</b><br/>
+
 I'm a future Software Engineer, currently studying Information Technology at the School of Engineering and Technology, Tra Vinh University. My daily routine involves diving deep into the ocean of programming languages, frameworks, and databases—and occasionally drowning in bugs. I'm actively sharpening my backend and full-stack skills to build a solid technical foundation and hunt for a great career opportunity.<br/><br/>
-<b>🇻🇳 Tiếng Việt</b><br/>
-Tôi là sinh viên chuyên ngành Công nghệ Thông tin, thuộc Khoa Công nghệ Thông tin, Trường Kỹ thuật và Công nghệ - Đại học Trà Vinh. Hiện tại, tôi đang tập trung nghiên cứu kiến trúc Backend và lập trình Full-stack. Tôi liên tục rèn luyện tư duy logic và cập nhật kiến thức công nghệ để chuẩn bị hành trang vững chắc cho quá trình tìm kiếm cơ hội việc làm.
-</td>
-</tr>
-</table>
+
 
 <br/>
 
