@@ -2,9 +2,8 @@
   <img src="sr2712ab0b35ecd.webp" width="45%" align="left" alt="Pixel Cat Coding" style="margin-right: 20px; border-radius: 8px;" />
   
   <div align="left" style="overflow: hidden;">
-    <h1>Lâm Tấn Hưng 👋</h1>
-    <h3>Software Engineering Student @ Tra Vinh University</h3>
-    <br/>
+    <div style="font-size: 32px; font-weight: bold; margin-bottom: 8px;">Lâm Tấn Hưng 👋</div>
+    <div style="font-size: 20px; font-weight: bold; opacity: 0.85; margin-bottom: 16px;">Software Engineering Student @ Tra Vinh University</div>
     <p>
       I'm an Information Technology student focusing on <b>Backend Architecture</b> and <b>Full-stack development</b>. I continuously build APIs, design databases, and refine my logic to craft robust software solutions.
     </p>
@@ -15,13 +14,6 @@
 </div>
 
 <br clear="left"/>
-<br/>
-
-<!-- Thay chữ divider.gif bằng tên file GIF đường kẻ bạn đã tải lên repo, hoặc xóa dòng này nếu không muốn dùng -->
-<p align="center">
-  <img src="divider.gif" width="100%" alt="Animated Divider" />
-</p>
-
 <br/>
 
 ### 🛠️ Tech Stack & Tools
