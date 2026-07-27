@@ -4,6 +4,7 @@
   <div align="left" style="overflow: hidden;">
     <h1>Lâm Tấn Hưng 👋</h1>
     <h3>Software Engineering Student @ Tra Vinh University</h3>
+    <br/>
     <p>
       I'm an Information Technology student focusing on <b>Backend Architecture</b> and <b>Full-stack development</b>. I continuously build APIs, design databases, and refine my logic to craft robust software solutions.
     </p>
@@ -16,9 +17,9 @@
 <br clear="left"/>
 <br/>
 
-<!-- Họa tiết đường viền động ở giữa để tạo điểm nhấn -->
+<!-- Thay chữ divider.gif bằng tên file GIF đường kẻ bạn đã tải lên repo, hoặc xóa dòng này nếu không muốn dùng -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2a2e-460d-88e3-05a41753716d.gif" width="100%" alt="Animated Divider" />
+  <img src="divider.gif" width="100%" alt="Animated Divider" />
 </p>
 
 <br/>
