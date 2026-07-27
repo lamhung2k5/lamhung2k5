@@ -1,4 +1,6 @@
-# Welcome to my GitHub Profile! 🚀
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Lâm%20Tấn%20Hưng&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20@%20Tra%20Vinh%20University&descAlignY=55&descAlign=50" width="100%" />
+</p>
 
 ### 🇬🇧 English
 👨‍💻 I'm a future Software Engineer, currently studying Information Technology at the School of Engineering and Technology, Tra Vinh University. 
