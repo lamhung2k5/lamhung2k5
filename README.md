@@ -1,19 +1,27 @@
 <div align="center">
-  <img src="sr2712ab0b35ecd.webp" width="45%" align="left" alt="Pixel Cat Coding" style="margin-right: 20px; border-radius: 8px;" />
+  <!-- Thu nhỏ hình ảnh xuống 30% để cân đối với phần chữ -->
+  <img src="sr2712ab0b35ecd.webp" width="30%" align="left" alt="Pixel Cat Coding" style="margin-right: 25px; border-radius: 8px;" />
   
   <div align="left" style="overflow: hidden;">
-    <div style="font-size: 32px; font-weight: bold; margin-bottom: 8px;">Lâm Tấn Hưng 👋</div>
-    <div style="font-size: 20px; font-weight: bold; opacity: 0.85; margin-bottom: 16px;">Software Engineering Student @ Tra Vinh University</div>
+    <div style="font-size: 30px; font-weight: bold; margin-bottom: 6px;">Lâm Tấn Hưng 👋</div>
+    <div style="font-size: 18px; font-weight: bold; opacity: 0.85; margin-bottom: 14px;">Software Engineering Student @ Tra Vinh University</div>
     <p>
-      I'm an Information Technology student focusing on <b>Backend Architecture</b> and <b>Full-stack development</b>. I continuously build APIs, design databases, and refine my logic to craft robust software solutions.
+      I'm an Information Technology student specializing in <b>Backend Architecture</b> and <b>Full-stack development</b>. I actively build <b>RESTful APIs</b>, design <b>relational & NoSQL databases</b>, and write clean logic to craft robust software solutions.
     </p>
     <p>
-      🎯 <b>Current Goal:</b> Building a solid technical foundation to hunt for a great career opportunity!
+      🎯 <b>Current Goal:</b> Building a solid technical foundation and real-world projects to hunt for a great career opportunity!
     </p>
   </div>
 </div>
 
 <br clear="left"/>
+<br/>
+
+<!-- Viền động phân cách tối ưu hiển thị -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2a2e-460d-88e3-05a41753716d.gif" width="100%" alt="Animated Divider" />
+</p>
+
 <br/>
 
 ### 🛠️ Tech Stack & Tools
