@@ -4,7 +4,6 @@
   <div align="left" style="overflow: hidden;">
     <h1>Lâm Tấn Hưng 👋</h1>
     <h3>Software Engineering Student @ Tra Vinh University</h3>
-    <br/>
     <p>
       I'm an Information Technology student focusing on <b>Backend Architecture</b> and <b>Full-stack development</b>. I continuously build APIs, design databases, and refine my logic to craft robust software solutions.
     </p>
