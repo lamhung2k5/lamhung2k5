@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- Thu nhỏ hình ảnh xuống 30% để cân đối với phần chữ -->
   <img src="sr2712ab0b35ecd.webp" width="30%" align="left" alt="Pixel Cat Coding" style="margin-right: 25px; border-radius: 8px;" />
   
   <div align="left" style="overflow: hidden;">
@@ -15,14 +14,8 @@
 </div>
 
 <br clear="left"/>
-<br/>
 
-<!-- Viền động phân cách tối ưu hiển thị -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2a2e-460d-88e3-05a41753716d.gif" width="100%" alt="Animated Divider" />
-</p>
-
-<br/>
+<hr style="border: 0; height: 1px; background: #30363d; margin: 30px 0;" />
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
