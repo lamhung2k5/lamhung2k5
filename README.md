@@ -1,17 +1,18 @@
-<table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
 <!-- Cột TRÁI: Hình ảnh -->
-<td width="35%" align="center" valign="top">
+<td width="35%" align="center" valign="top" style="border: none;">
 <img src="sr2712ab0b35ecd.webp" width="100%" alt="Pixel Cat Coding" />
 </td>
 <!-- Cột PHẢI: Thông tin cá nhân -->
-<td width="65%" valign="top">
+<td width="65%" valign="top" style="border: none;">
 <h1>Lâm Tấn Hưng 👋</h1>
 <h3>Software Engineering Student @ Tra Vinh University</h3>
 <br/>
-
-I'm a future Software Engineer, currently studying Information Technology at the School of Engineering and Technology, Tra Vinh University. My daily routine involves diving deep into the ocean of programming languages, frameworks, and databases—and occasionally drowning in bugs. I'm actively sharpening my backend and full-stack skills to build a solid technical foundation and hunt for a great career opportunity.<br/><br/>
-
+I'm a future Software Engineer, currently studying Information Technology at the School of Engineering and Technology, Tra Vinh University. My daily routine involves diving deep into the ocean of programming languages, frameworks, and databases—and occasionally drowning in bugs. I'm actively sharpening my backend and full-stack skills to build a solid technical foundation and hunt for a great career opportunity.
+</td>
+</tr>
+</table>
 
 <br/>
 
