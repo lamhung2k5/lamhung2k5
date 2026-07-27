@@ -17,6 +17,13 @@
 
 <hr style="border: 0; height: 1px; background: #30363d; margin: 30px 0;" />
 
+### 🐍 Contribution Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lamhung2k5/lamhung2k5/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+<br/>
+
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <!-- Languages -->
@@ -41,6 +48,7 @@
 
 <br/>
 
+
 ### 📊 GitHub Analytics
 <p align="center">
   <img src="https://raw.githubusercontent.com/lamhung2k5/lamhung2k5/main/metrics.stats.svg" width="48%" alt="GitHub Stats" />
@@ -49,12 +57,8 @@
 
 <br/>
 
-### 🐍 Contribution Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lamhung2k5/lamhung2k5/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
 
-<br/>
+
 
 ### 📫 Let's Connect
 <p align="left">
